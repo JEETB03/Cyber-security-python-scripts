@@ -1,6 +1,4 @@
-Here’s an improved version of your ARP Spoofer project documentation, formatted and enhanced for GitHub:
 
----
 
 # ARP Spoofer
 
