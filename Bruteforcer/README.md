@@ -72,8 +72,8 @@ The script performs the following steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/JEETB03/Cyber-security-python-scripts/tree/main/Bruteforcer.git
+   cd to the repo cloned.
    ```
 
 2. Run the script:
