@@ -47,8 +47,8 @@ This framework allows for secure communication between a "server" and a "target 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/repo-name.git
-   cd repo-name
+   git clone https://github.com/JEETB03/Cyber-security-python-scripts/Backdoor%20and%20server.git
+   cd to the repo cloned in terminal
    ```
 
 2. Update the IP and port in both scripts:
