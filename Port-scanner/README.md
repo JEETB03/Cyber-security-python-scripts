@@ -12,7 +12,7 @@ This script performs a basic port scan on specified targets. It uses the Python 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/port-scanner.git
+    git clone https://github.com/JEETB03/Cyber-security-python-scripts/Port-scanner.git
     ```
 2. Navigate to the project directory:
     ```sh
